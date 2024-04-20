@@ -6,8 +6,7 @@
 
 ### RnPsoft Pvt Ltd, Bhubaneswar, India (Jan 2024 - Present)
 - **ML-AI Intern** (hybrid)
-  - Worked on OCR model for Text to Video Generation.
-  - Integrated Deepfake with TTS and Image-to-Text modules.
+  - (Currently in progress)
 
 ### OpenGenus Foundation, Tokyo, Japan (Jul 2023 - Dec 2023)
 - **ML-AI Intern** (remote)
