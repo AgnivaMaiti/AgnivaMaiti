@@ -36,7 +36,7 @@
 - The Fundamentals of Digital Marketing - Google Digital Garage
 - Data Science Foundations - Level 1 - IBM
 
-![book GIF](https://c.tenor.com/v5EhXEGfg8sAAAAC/tenor.gif)
+![book GIF](https://pusheen.com/wp-content/uploads/2011/06/tumblr_ln1ybqx90J1qhy6c9o1_400.gif)
 
 ## Education
 - **Bachelor of Technology (Computer Science & Engineering)**, Kalinga Institute of Industrial Technology (Sep 2022 - Present)
