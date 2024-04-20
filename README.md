@@ -22,7 +22,7 @@
     - Contacted them and spoke to them about our services.
     - Redirected interested leads to the manager and team head.
 
-![GIF Example](https://thumbs.gfycat.com/UnhappyDeterminedLark-size_restricted.gif)
+![GIF Example](https://media.giphy.com/media/6bjWIzKKkTvnG/giphy.gif)
 
 ## Qualifications
 - Django Essential Training - LinkedIn
@@ -36,7 +36,7 @@
 - The Fundamentals of Digital Marketing - Google Digital Garage
 - Data Science Foundations - Level 1 - IBM
 
-![book GIF](https://media.giphy.com/media/6bjWIzKKkTvnG/giphy.gif)
+![book GIF](https://c.tenor.com/v5EhXEGfg8sAAAAC/tenor.gif)
 
 ## Education
 - **Bachelor of Technology (Computer Science & Engineering)**, Kalinga Institute of Industrial Technology (Sep 2022 - Present)
