@@ -3,24 +3,42 @@
 ![Just a gif](https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif)
 
 ## Experience
-- **Kraya & Kuber**, KIIT (Mar 2023 - Present)
-  - **Digital Marketing Volunteer**
-  - Responsibilities:
-    - Get people to visit our social pages.
-    - Promote posts and updates about the society.
 
-- **Konnexions**, KIIT (Mar 2023 - Present)
-  - **App Development Volunteer**
-  - Responsibilities:
-    - Learned to build android apps using Flutter and Dart.
-    - Built a word suggesting app.
+### RnPsoft Pvt Ltd, Bhubaneswar, India (Jan 2024 - Present)
+- **ML-AI Intern** (hybrid)
+  - Worked on OCR model for Text to Video Generation.
+  - Integrated Deepfake with TTS and Image-to-Text modules.
 
-- **ScarBluu** (Aug 2022 - Sep 2022)
-  - **Business Development Intern**
-  - Responsibilities:
-    - Found leads for the company using various social media platforms and email.
-    - Contacted them and spoke to them about our services.
-    - Redirected interested leads to the manager and team head.
+### OpenGenus Foundation, Tokyo, Japan (Jul 2023 - Dec 2023)
+- **ML-AI Intern** (remote)
+  - Wrote technical articles regarding machine learning.
+  - Developed programs related to NLP.
+  - Created an NLP checklist for the website.
+
+### KIIT Robotics Society, Bhubaneswar, India (Nov 2023 - Present)
+- **IoT Developer**
+  - Developed a smart air purifier.
+  - Created a weather and pollution monitoring-cum-predicting system.
+  - Developed a legal chatbot.
+  - Built a rover bot.
+  - Participated and represented the society and college in tech competitions.
+
+### KIIT Electrical Society, Bhubaneswar, India (Nov 2023 - Present)
+- **Technical Team Member**
+  - Represented the society in symposiums.
+  - Presented a research paper on DNM on its behalf.
+
+### Konnexions, KIIT (Mar 2023 - Present)
+- **App Development Volunteer** (IT & Web Society)
+  - Learned to build android apps using Flutter and Dart.
+  - Built a word suggesting app.
+  - Developed a to-do list app.
+  - Created a time management and productivity app.
+    
+### ScarBluu, Mumbai, India (Aug 2022 - Sep 2022)
+- **Business Development Intern** (remote)
+  - Learned to generate leads.
+  - Had fruitful conversations with clients to pitch for the company.
 
 ![GIF Example](https://media.giphy.com/media/6bjWIzKKkTvnG/giphy.gif)
 
@@ -35,6 +53,9 @@
 - Prepare, Clean, Transform, and Load Data using Power BI - Coursera
 - The Fundamentals of Digital Marketing - Google Digital Garage
 - Data Science Foundations - Level 1 - IBM
+- Figma Essential Training: The Basics
+- Processing Text with Python Essential Training
+- Career Essentials in GitHub Professional Certificate
 
 ![book GIF](https://pusheen.com/wp-content/uploads/2011/06/tumblr_ln1ybqx90J1qhy6c9o1_400.gif)
 
@@ -46,19 +67,32 @@
 - Highly motivated
 - Meeting expectations
 - Hardworking
-- HTML, C, C++, SQL, Python, JS, Django
+- HTML, CSS, JS, Flask
+- C, C++, Arduino
+- Python (NLTK, PyTesseract, NumPy, TensorFlow)
+- Java
+- SQL
 - MS Excel, Word, PowerPoint
 - SEO, Digital Marketing
 - Android Studio, VS Code
 - Kaggle, BigQuery
 - WordPress, Wix, Mailchimp
+- UI-UX: Figma
 
 ![Image Example](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XeWxoGKJu8E7CA699mPoYn6ML-iGwy_0IA&usqp=CAU)
 
-## Websites I Created
-- [Bong's Bongo](https://bongsbongo.wordpress.com)
-- [Kothacitro Store](https://kothacitro999.wixsite.com/kothacitrostore)
-- [Agniva Maiti](https://maitiagniva.wixsite.com/agniva-maiti)
+## Organizations
+
+### Kartavya - Kalakaar, Bhubaneswar, India (Nov 2023 - Present)
+- **Script Writer**
+  - Dramatics Society
+
+### SPIC MACAY - KIIT Chapter, Bhubaneswar, India (Mar 2023 - Present)
+- **Content Writer**
+
+### Kraya & Kuber, Bhubaneswar, India (Mar 2023 - Present)
+- **Digital Marketing and Finance Team Member**
+  - Marketing Society
 
 ![Image Example](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0YF_dqhVoArLhbY3CgacVjuMQI6B2NojK6g&usqp=CAU)
 
