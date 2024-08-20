@@ -4,6 +4,11 @@
 
 ## Experience
 
+### IIT Kharagpur, Kharagpur, India (May 2024 - Jul 2024)
+- **ML-AI Intern** (on site)
+  - Worked on data collection and annotation from Google and Bing search results.
+  - Assessed the relevance and stance using LLMs.
+
 ### RnPsoft Pvt Ltd, Bhubaneswar, India (Jan 2024 - Present)
 - **ML-AI Intern** (hybrid)
   - (Currently in progress)
