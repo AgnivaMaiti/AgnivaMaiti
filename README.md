@@ -4,7 +4,7 @@
 
 ## Experience
 
-### IIT (ISM) Dhanbad, Dhanbad, India (Dec 2024 - Jan 2024)
+### IIT (ISM) Dhanbad, Dhanbad, India (Dec 2024 - Jan 2025)
 - **Institute Research Intern** (on site)
   - Worked on low-light image enhancement.
   - Read and reproduced papers on DCE and RGB-NLP fusion models.
