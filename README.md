@@ -35,7 +35,6 @@ class AgnivaMaiti:
         self.location = "Bhubaneswar, India"
         self.research_interests = ["Computer Vision", "NLP", "Deep Learning"]
         self.currently_working_on = ["Low-light Image Enhancement", "AI Chatbots"]
-        self.languages_spoken = ["English", "Bengali", "Hindi", "Nagamese", "Assamese"]
         
     def current_focus(self):
         return ["Flutter Development", "AI Integration", "Full Stack"]
@@ -183,17 +182,17 @@ class AgnivaMaiti:
 - **🔎 Research Intern** @ IIT(ISM) & IIT KGP
 
 ## 🎨 Project Highlights
-- 🎵 **AI Lyrics Generator** (Multi-language)
-- 🛰️ **Satellite Image Classifier** (6 categories)
-- 📄 **Resume Analyzer** with AI suggestions
-- 🌤️ **Weather Monitoring System** with IoT
+- 🎵 **AI Lyrics Generator** 
+- 🛰️ **Satellite Image Classifier** 
+- 📄 **Resume Analyzer** 
+- 🌤️ **Weather Monitoring System**
 - 🏥 **Medical & Legal Chatbots**
 
 </td>
 <td width="50%">
 
 ## 🎭 Beyond Development
-### 📚 Published Author (5 Books)
+### 📚 Published Author
 - 📖 "When The Periwinkles Wilt" - Poetry & Stories
 - 💻 "Programs in C" - Technical Guide  
 - 🌟 "On Cloud Nine" - Published with **Scholastic**
@@ -201,7 +200,7 @@ class AgnivaMaiti:
 
 ### 🎯 Interests & Skills
 ```
-🎵 Music Producer     🏓 Chess Strategist    ☁️ Cloud Enthusiast
+🎵 Music Lover     ♙ Chess Strategist    ☁️ Cloud Gazer
 ✍️ Content Creator    📖 Avid Reader        🌍 Aspiring Polyglot
 🤖 AI Innovator      🎭 Script Writer      📝 Technical Blogger
 ```
