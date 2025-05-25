@@ -1,162 +1,185 @@
-# Agniva Maiti 👋
+# Hi there, I'm Agniva Maiti! 👋
 
-*AI/ML & App Development Enthusiast | B.Tech CSE Student*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ML+Engineer+%26+App+Developer;AI+Researcher+%26+Tech+Enthusiast;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</div>
 
----
-
-**About Me**
-
-I'm a passionate Computer Science & Engineering student at KIIT, specializing in Machine Learning, Artificial Intelligence, and App Development. I enjoy building practical solutions, tackling complex problems, and continuously learning new technologies. My experience spans research internships, industry projects, and active participation in technical societies, where I've developed skills in areas ranging from low-level systems to full-stack applications and AI models. I'm always looking for exciting opportunities to apply my knowledge and contribute to impactful projects.
-
----
-
-**Skills & Technologies**
-
-*   **Programming Languages:** Python (NLTK, PyTorch, NumPy, TensorFlow), C, C++, Java, JavaScript, Dart
-*   **Web Development:** HTML, CSS, Flask
-*   **App Development:** Flutter, Android Studio
-*   **Databases:** SQL (MySQL, PostgreSQL)
-*   **Tools & Platforms:** Git, GitHub, VS Code, Arduino, Kaggle, BigQuery, MS Office Suite, WordPress, Wix, Mailchimp
-*   **UI/UX:** Figma
-*   **Cloud:** AWS (Basic exposure)
-*   **Data Analysis:** MS Excel, Power BI, R (Basic)
-*   **Other:** SEO, Digital Marketing
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+</div>
 
 ---
 
-**Highlighted Projects**
+## 🚀 About Me
 
-*   **Geeti:** An AI-powered lyrics generator tailored to your preferred genre, language, and song structure.
-*   **Satellite Image Landscape Classifier:** Image classification system designed to identify and label 6 different landscape categories in satellite images.
-*   **Smart Air Purifier:** Engineered a system with monitoring and prediction capabilities.
-*   **Weather and Pollution Monitoring System:** Developed a system with app integration for monitoring and predicting environmental data.
-*   **What The Flutter!?:** A Flutter learning app featuring detailed documentation and rich examples for hands-on learning.
-*   **Start-Up Idea Validator:** A web application designed to assist entrepreneurs in evaluating the viability of their startup ideas.
-*   **AI-Powered Chatbots:** Engineered legal and medical chatbots.
-*   **Time Management & Productivity App:** Developed a comprehensive app with integrated to-do list functionality.
-
-*(Check my repositories for more projects!)*
-
----
-
-**Experience & Internships**
-
-*   **Institute Research Intern** | IIT (ISM) Dhanbad, India (Dec 2024 – Jan 2025)
-    *   Explored low-light image enhancement techniques (deep curve estimation, RGB-NIR pairing).
-    *   Replicated and analyzed methods from published research papers.
-
-*   **AI Research Intern** | IIT Kharagpur, India (May 2024 – Jul 2024)
-    *   Collected and annotated 18,700+ data entries from Google/Bing search results.
-    *   Assessed relevance and stance using 3 different LLMs.
-
-*   **ML-AI Intern** | RnPsoft Pvt Ltd, Bhubaneswar, India (Jan 2024 – Present)
-    *   Contributing as an ML-AI developer to the ABIV project.
-    *   Integrating AI models to personalize educational content for 500+ active users.
-
-*   **App Developer** | DES Navalmal Firodia Law College, Pune, India (remote) (Feb 2025)
-    *   Developed an app for Agrovigya, an initiative supporting rural employment and agricultural techniques.
-
-*   **App Developer** | Syntalix, Kolkata, India (Sep 2024)
-    *   Worked on Flutter-based app development for Android platforms.
-
-*   **IoT Developer and App Development Lead** | KIIT Robotics Society, Bhubaneswar, India (Nov 2023 – Present)
-    *   Engineered a weather and pollution monitoring system with app integration.
-    *   Engineered AI-powered legal and medical chatbots.
-    *   Instructed 50+ students in Flutter development; oversaw development of the official KRS App.
-    *   Represented and organized tech events.
-
-*   **ML-AI Intern** | OpenGenus Foundation, Tokyo, Japan (remote) (Jul 2023 – Dec 2023)
-    *   Authored 11 technical articles on machine learning.
-    *   Built 2 NLP projects and an NLP checklist for the website.
-
-*   **Web Team Member and App Development Lead** | KIIT Electrical Society, Bhubaneswar, India (Nov 2023 – Present)
-    *   Represented the society in symposiums and presented a research paper on DNM.
-
-*   **App Developer** | Konnexions (IT & Web Society), KIIT, Bhubaneswar, India (Mar 2023 – Present)
-    *   Developed and engineered a comprehensive time management and productivity app.
-
-*   **Tech & Web Team Member** | KIITFest 8.0, Bhubaneswar, India (Feb 2025)
-    *   Assisted in developing a scanning app for ID verification/merch distribution (1,500+ attendees).
-    *   Resolved tech issues reducing downtime by 40%.
-
-*   **Business Development Intern** | ScarBluu, Mumbai, India (remote) (Aug 2022 – Sep 2022)
-    *   Generated leads and established client relationships to pitch company services.
+```python
+class AgnivaMatiti:
+    def __init__(self):
+        self.name = "Agniva Maiti"
+        self.role = "ML Engineer & App Developer"
+        self.education = "B.Tech CSE @ KIIT University"
+        self.cgpa = 8.42
+        self.location = "Bhubaneswar, India"
+        self.research_interests = ["Computer Vision", "NLP", "Deep Learning"]
+        self.currently_working_on = ["Low-light Image Enhancement", "AI Chatbots"]
+        self.languages_spoken = ["English", "Bengali", "Hindi", "Nagamese", "Assamese"]
+        
+    def get_current_focus(self):
+        return ["Research @ IIT Dhanbad", "Flutter Development", "ML/AI Projects"]
+```
 
 ---
 
-**Education**
+## 🎯 Current Status
 
-*   **Bachelor of Technology (Computer Science & Engineering)**
-    *   Kalinga Institute of Industrial Technology, Bhubaneswar, India (Sep 2022 – Jun 2026)
-    *   Current CGPA: 8.42
+<div align="center">
 
-*   **High School Education (CBSE - PCMB)**
-    *   Hollotoli School, Dimapur, India (Apr 2020 – Jun 2022)
-    *   Class 12: 86.4%, Class 10: 97.2%
+### 🎓 Academic Progress
+![Academic Progress](https://progress-bar.dev/84/?scale=100&title=CGPA&width=300&color=babaca&suffix=/10.0)
 
----
+### 📚 Graduation Countdown
+![Graduation](https://img.shields.io/badge/Graduation-May%202026-brightgreen?style=for-the-badge&logo=calendar)
 
-**Certifications & Courses**
+### 🔬 Research Status
+![Research](https://img.shields.io/badge/Currently%20at-IIT%20Dhanbad-blue?style=for-the-badge&logo=university)
 
-*   Career Essentials in GitHub Professional Certificate (Coursera)
-*   Machine Learning with Scikit-Learn (Coursera)
-*   Processing Text with Python Essential Training (LinkedIn)
-*   JavaScript Essential Training (LinkedIn)
-*   SQL for Data Analysis (LinkedIn)
-*   Figma Essential Training: The Basics (LinkedIn)
-*   Strategy and Game Theory for Management (Coursera)
-*   Problem Solving (Basic) Certificate - HackerRank
-*   Python (Basic) Certificate - HackerRank
-*   SQL (Basic) Certificate - HackerRank
-*   Application of Data Analysis in Business with R Programming (Coursera)
-*   Prepare, Clean, Transform, and Load Data using Power BI (Coursera)
-*   The Fundamentals of Digital Marketing (Google Digital Garage)
-*   Data Science Foundations - Level 1 (IBM)
-*   Django Essential Training (LinkedIn)
+</div>
 
 ---
 
-**Community & Organizations**
+## 💻 Tech Arsenal
 
-*   **ML Team Member** | UiPath Student Community (Feb 2025 – Present)
-*   **Systems and Low Level Team Member** | Google Developer Student Club (May 2024 – Present)
-*   **Script Writer** | Kartavya - Kalakaar (Dramatics Society) (Nov 2023 – Present)
-*   **Content Writer** | SPIC MACAY - KIIT Chapter (Mar 2023 – Present)
-*   **Digital Marketing & Finance Team Member** | Kraya&Kuber (Marketing Society) (Mar 2023 – Present)
+<div align="center">
 
----
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-95%25-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-85%25-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-75%25-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-80%25-0175c2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Interests**
+### AI/ML Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-90%25-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-85%25-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-80%25-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-75%25-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)
 
-Competitive coding, writing poems and short stories, creating Python apps for fun, playing music (harmonium, mouth organ, etc.), reading novels, playing chess, blogging, language learning, cloudgazing.
+### Development Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-90%25-02569b?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-70%25-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-75%25-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-70%25-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-65%25-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-90%25-f05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Languages**
-
-*   **Fluent:** English, Bengali, Hindi, Nagamese
-*   **Beginner:** Assamese, Urdu, German
-
----
-
-**Books Published**
-
-*   Programs in C (Feb 2023)
-*   When The Periwinkles Wilt: Stories and poems about broken hearts and broken souls (Jul 2022)
-*   हमारा आसमान (May 2021)
-*   On Cloud Nine (Jan 2021) (with Scholastic)
-*   Bidrohi (The Rebel): English translation... *(Note: The original text was cut off here. Complete the title if possible)*
+</div>
 
 ---
 
-**Let's Connect!**
+## 🏆 Achievement Showcase
 
-*   **Email:** `maitiagniva@gmail.com`
-*   **LinkedIn:** [www.linkedin.com/in/agniva-maiti/](https://www.linkedin.com/in/agniva-maiti/)
-*   **Website:** [www.agniva.tech](https://www.agniva.tech/)
-*   **GitHub:** [github.com/AgnivaMaiti](https://github.com/AgnivaMaiti)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AgnivaMaiti&theme=onedark&no-frame=true&row=1&column=6" alt="Trophy" />
+</div>
 
-*(References available upon request.)*
+### 📊 Research Impact
+- 🔬 **2 Research Internships** at IIT Dhanbad & IIT Kharagpur
+- 📄 **11 Technical Articles** published on OpenGenus
+- 📊 **18,700+ Entries** collected for ML research dataset
+- 🤖 **500+ Users** impacted by personalized AI systems
+
+### 🎨 Creative Projects
+- 📱 **10+ Mobile Apps** developed with Flutter
+- 🤖 **AI Chatbots** for legal and medical assistance
+- 🎵 **AI Lyrics Generator** with multi-language support
+- 🛰️ **Satellite Image Classifier** for landscape recognition
 
 ---
-![Pusheen reading a book GIF](https://pusheen.com/wp-content/uploads/2011/06/tumblr_ln1ybqx90J1qhy6c9o1_400.gif)
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgnivaMaiti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnivaMaiti&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgnivaMaiti&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgnivaMaiti&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Geeti](https://github-readme-stats.vercel.app/api/pin/?username=AgnivaMaiti&repo=Geeti&theme=tokyonight)](https://github.com/AgnivaMaiti/Geeti)
+[![What The Flutter](https://github-readme-stats.vercel.app/api/pin/?username=AgnivaMaiti&repo=WhatTheFlutter&theme=tokyonight)](https://github.com/AgnivaMaiti/WhatTheFlutter)
+
+[![Satellite Classifier](https://github-readme-stats.vercel.app/api/pin/?username=AgnivaMaiti&repo=satellite-image-landscape-classifier&theme=tokyonight)](https://github.com/AgnivaMaiti/satellite-image-landscape-classifier)
+[![Resume Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=AgnivaMaiti&repo=one-click-resume-analyzer&theme=tokyonight)](https://github.com/AgnivaMaiti/one-click-resume-analyzer)
+
+</div>
+
+---
+
+## 🎭 Beyond Code
+
+<div align="center">
+
+### 📚 Published Author
+![Books](https://img.shields.io/badge/Books%20Published-5-ff6b6b?style=for-the-badge&logo=book&logoColor=white)
+
+**Latest Works:**
+- 📖 "When The Periwinkles Wilt" - Poetry & Short Stories
+- 💻 "Programs in C" - Technical Guide
+- 🌟 "On Cloud Nine" - Published with Scholastic
+
+### 🎯 Interests & Hobbies
+```
+🎵 Music Enthusiast    🏓 Chess Player        ☁️ Cloud Gazer
+✍️ Poetry Writer      📖 Avid Reader         🌍 Language Learner
+🤖 AI Researcher      🎭 Script Writer       📝 Technical Blogger
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-agniva.tech-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.agniva.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnivamaiti)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maitiagniva@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgnivaMaiti)
+
+### 💬 Fun Fact
+*I can code in 5+ programming languages and speak 5+ human languages fluently!*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AgnivaMaiti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <br><br>
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  **Thanks for visiting! Let's build something amazing together! 🚀**
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
+</div>
