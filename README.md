@@ -53,13 +53,6 @@ class AgnivaMaiti:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnivaMaiti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-## 🏆 Key Achievements
-- 📱 **10+ Mobile Applications** built with Flutter
-- 🤖 **AI Chatbots** for legal and medical domains
-- 📄 **11 Technical Articles** published
-- 📚 **5 Books Published** including with Scholastic
-- 🏢 **Multiple Internships** at top companies
-
 </td>
 </tr>
 </table>
@@ -75,7 +68,7 @@ class AgnivaMaiti:
 <td align="center" width="25%">
 
 **Programming Languages**
-<br><br>
+<br>
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
@@ -90,7 +83,7 @@ class AgnivaMaiti:
 <td align="center" width="25%">
 
 **Frontend & Mobile**
-<br><br>
+<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61dafb)
@@ -103,7 +96,7 @@ class AgnivaMaiti:
 <td align="center" width="25%">
 
 **Backend & Frameworks**
-<br><br>
+<br>
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)
@@ -114,7 +107,7 @@ class AgnivaMaiti:
 <td align="center" width="25%">
 
 **AI/ML & Data**
-<br><br>
+<br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -130,7 +123,7 @@ class AgnivaMaiti:
 <td align="center">
 
 **Databases**
-<br><br>
+<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
@@ -141,7 +134,7 @@ class AgnivaMaiti:
 <td align="center">
 
 **Cloud & DevOps**
-<br><br>
+<br>
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
@@ -152,7 +145,7 @@ class AgnivaMaiti:
 <td align="center">
 
 **Design & Tools**
-<br><br>
+<br>
 ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-ff61f6?style=flat-square&logo=adobe-xd&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -164,7 +157,7 @@ class AgnivaMaiti:
 <td align="center">
 
 **Other Technologies**
-<br><br>
+<br>
 ![REST API](https://img.shields.io/badge/REST_API-02569b?style=flat-square&logo=api&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
@@ -208,7 +201,7 @@ class AgnivaMaiti:
 ### 🎯 Interests & Skills
 ```
 🎵 Music Producer     🏓 Chess Strategist    ☁️ Cloud Enthusiast
-✍️ Content Creator    📖 Avid Reader        🌍 Polyglot
+✍️ Content Creator    📖 Avid Reader        🌍 Aspiring Polyglot
 🤖 AI Innovator      🎭 Script Writer      📝 Technical Blogger
 ```
 
@@ -243,7 +236,7 @@ class AgnivaMaiti:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AgnivaMaiti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
-  <br><br>
+  <br>
   
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="60"/>
   
