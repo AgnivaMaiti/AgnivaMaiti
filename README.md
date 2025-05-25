@@ -1,44 +1,6 @@
 # Hi there, I'm Agniva Maiti! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ML+Engineer+%26+App+Developer;AI+Researcher+%26+Tech+Enthusiast;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" alt="Coding Animation"/>
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class AgnivaMatiti:
-    def __init__(self):
-        self.name = "Agniva Maiti"
-        self.role = "ML Engineer & App Developer"
-        self.education = "B.Tech CSE @ KIIT University"
-        self.cgpa = 8.42
-        self.location = "Bhubaneswar, India"
-        self.research_interests = ["Computer Vision", "NLP", "Deep Learning"]
-        self.currently_working_on = ["Low-light Image Enhancement", "AI Chatbots"]
-        self.languages_spoken = ["English", "Bengali", "Hindi", "Nagamese", "Assamese"]
-        
-    def get_current_focus(self):
-        return ["Research @ IIT Dhanbad", "Flutter Development", "ML/AI Projects"]
-```
-
----
-
-
-
-
-
-
-
-# Hi there, I'm Agniva Maiti! 👋
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+Engineer+%26+App+Developer;Building+Amazing+Applications;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
