@@ -179,7 +179,8 @@ class AgnivaMaiti:
 - **🏢 App Development Lead** @ KIIT Robotics Society
 - **🤖 ML Engineer** @ RnPsoft PVT. LTD.
 - **📱 Flutter Developer** @ Multiple Companies
-- **✍️ Technical Writer** @ OpenGenus (11+ Articles)
+- **✍️ Technical Writer** @ OpenGenus
+- **🔎 Research Intern:: @ IIT(ISM) & IIT KGP
 
 ## 🎨 Project Highlights
 - 🎵 **AI Lyrics Generator** (Multi-language)
