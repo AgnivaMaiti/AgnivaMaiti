@@ -8,11 +8,11 @@
   
 ```ascii
     ╔══════════════════════════════════════╗
-    ║  💻 Software Developer               ║
+    ║  💻 Software Development             ║
     ║  🎓 B.Tech CSE @ KIIT University     ║
-    ║  📱 Flutter & Mobile App Specialist  ║
+    ║  📱 Flutter & Mobile App Dev         ║
     ║  🤖 AI/ML Enthusiast                 ║
-    ║  🌍 Aspiring to be a polyglot :)     ║
+    ║  ☕ I love coffee                    ║
     ╚══════════════════════════════════════╝
 ```
 
