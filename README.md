@@ -1,136 +1,162 @@
-# Agniva Maiti
+# Agniva Maiti 👋
 
-![Just a gif](https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif)
+*AI/ML & App Development Enthusiast | B.Tech CSE Student*
 
-## Experience
+---
 
-### IIT (ISM) Dhanbad, Dhanbad, India (Dec 2024 - Jan 2025)
-- **Institute Research Intern** (on site)
-  - Worked on low-light image enhancement.
-  - Read and reproduced papers on DCE and RGB-NLP fusion models.
+**About Me**
 
-### IIT Kharagpur, Kharagpur, India (May 2024 - Jul 2024)
-- **ML-AI Intern** (on site)
-  - Worked on data collection and annotation from Google and Bing search results.
-  - Assessed the relevance and stance using LLMs.
+I'm a passionate Computer Science & Engineering student at KIIT, specializing in Machine Learning, Artificial Intelligence, and App Development. I enjoy building practical solutions, tackling complex problems, and continuously learning new technologies. My experience spans research internships, industry projects, and active participation in technical societies, where I've developed skills in areas ranging from low-level systems to full-stack applications and AI models. I'm always looking for exciting opportunities to apply my knowledge and contribute to impactful projects.
 
-### RnPsoft Pvt Ltd, Bhubaneswar, India (Jan 2024 - Present)
-- **ML-AI Intern** (hybrid)
-  - (Currently in progress)
+---
 
-### OpenGenus Foundation, Tokyo, Japan (Jul 2023 - Dec 2023)
-- **ML-AI Intern** (remote)
-  - Wrote technical articles regarding machine learning.
-  - Developed programs related to NLP.
-  - Created an NLP checklist for the website.
+**Skills & Technologies**
 
-### KIIT Robotics Society, Bhubaneswar, India (Nov 2023 - Present)
-- **IoT Developer**
-  - Developed a smart air purifier.
-  - Created a weather and pollution monitoring-cum-predicting system.
-  - Developed a legal chatbot.
-  - Built a rover bot.
-  - Participated and represented the society and college in tech competitions.
+*   **Programming Languages:** Python (NLTK, PyTorch, NumPy, TensorFlow), C, C++, Java, JavaScript, Dart
+*   **Web Development:** HTML, CSS, Flask
+*   **App Development:** Flutter, Android Studio
+*   **Databases:** SQL (MySQL, PostgreSQL)
+*   **Tools & Platforms:** Git, GitHub, VS Code, Arduino, Kaggle, BigQuery, MS Office Suite, WordPress, Wix, Mailchimp
+*   **UI/UX:** Figma
+*   **Cloud:** AWS (Basic exposure)
+*   **Data Analysis:** MS Excel, Power BI, R (Basic)
+*   **Other:** SEO, Digital Marketing
 
-### KIIT Electrical Society, Bhubaneswar, India (Nov 2023 - Present)
-- **Technical Team Member**
-  - Represented the society in symposiums.
-  - Presented a research paper on DNM on its behalf.
+---
 
-### Konnexions, KIIT (Mar 2023 - Present)
-- **App Development Volunteer** (IT & Web Society)
-  - Learned to build android apps using Flutter and Dart.
-  - Built a word suggesting app.
-  - Developed a to-do list app.
-  - Created a time management and productivity app.
-    
-### ScarBluu, Mumbai, India (Aug 2022 - Sep 2022)
-- **Business Development Intern** (remote)
-  - Learned to generate leads.
-  - Had fruitful conversations with clients to pitch for the company.
+**Highlighted Projects**
 
-![GIF Example](https://media.giphy.com/media/6bjWIzKKkTvnG/giphy.gif)
+*   **Geeti:** An AI-powered lyrics generator tailored to your preferred genre, language, and song structure.
+*   **Satellite Image Landscape Classifier:** Image classification system designed to identify and label 6 different landscape categories in satellite images.
+*   **Smart Air Purifier:** Engineered a system with monitoring and prediction capabilities.
+*   **Weather and Pollution Monitoring System:** Developed a system with app integration for monitoring and predicting environmental data.
+*   **What The Flutter!?:** A Flutter learning app featuring detailed documentation and rich examples for hands-on learning.
+*   **Start-Up Idea Validator:** A web application designed to assist entrepreneurs in evaluating the viability of their startup ideas.
+*   **AI-Powered Chatbots:** Engineered legal and medical chatbots.
+*   **Time Management & Productivity App:** Developed a comprehensive app with integrated to-do list functionality.
 
-## Qualifications
-- Django Essential Training - LinkedIn
-- JavaScript Essential Training - LinkedIn
-- SQL for Data Analysis - LinkedIn
-- Problem Solving (Basic) Certificate - HackerRank
-- Python (Basic) Certificate - HackerRank
-- SQL (Basic) Certificate - HackerRank
-- Application of Data Analysis in Business with R Programming - Coursera
-- Prepare, Clean, Transform, and Load Data using Power BI - Coursera
-- The Fundamentals of Digital Marketing - Google Digital Garage
-- Data Science Foundations - Level 1 - IBM
-- Figma Essential Training: The Basics
-- Processing Text with Python Essential Training
-- Career Essentials in GitHub Professional Certificate
+*(Check my repositories for more projects!)*
 
-![book GIF](https://pusheen.com/wp-content/uploads/2011/06/tumblr_ln1ybqx90J1qhy6c9o1_400.gif)
+---
 
-## Education
-- **Bachelor of Technology (Computer Science & Engineering)**, Kalinga Institute of Industrial Technology (Sep 2022 - Present)
-- **Class 12 (Science)**, Hollotoli School (Apr 2022)
+**Experience & Internships**
 
-## Skills
-- Highly motivated
-- Meeting expectations
-- Hardworking
-- HTML, CSS, JS, Flask
-- C, C++, Arduino
-- Python (NLTK, PyTesseract, NumPy, TensorFlow)
-- Java
-- SQL
-- MS Excel, Word, PowerPoint
-- SEO, Digital Marketing
-- Android Studio, VS Code
-- Kaggle, BigQuery
-- WordPress, Wix, Mailchimp
-- UI-UX: Figma
+*   **Institute Research Intern** | IIT (ISM) Dhanbad, India (Dec 2024 – Jan 2025)
+    *   Explored low-light image enhancement techniques (deep curve estimation, RGB-NIR pairing).
+    *   Replicated and analyzed methods from published research papers.
 
-![Image Example](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XeWxoGKJu8E7CA699mPoYn6ML-iGwy_0IA&usqp=CAU)
+*   **AI Research Intern** | IIT Kharagpur, India (May 2024 – Jul 2024)
+    *   Collected and annotated 18,700+ data entries from Google/Bing search results.
+    *   Assessed relevance and stance using 3 different LLMs.
 
-## Organizations
+*   **ML-AI Intern** | RnPsoft Pvt Ltd, Bhubaneswar, India (Jan 2024 – Present)
+    *   Contributing as an ML-AI developer to the ABIV project.
+    *   Integrating AI models to personalize educational content for 500+ active users.
 
-### Kartavya - Kalakaar, Bhubaneswar, India (Nov 2023 - Present)
-- **Script Writer**
-  - Dramatics Society
+*   **App Developer** | DES Navalmal Firodia Law College, Pune, India (remote) (Feb 2025)
+    *   Developed an app for Agrovigya, an initiative supporting rural employment and agricultural techniques.
 
-### SPIC MACAY - KIIT Chapter, Bhubaneswar, India (Mar 2023 - Present)
-- **Content Writer**
+*   **App Developer** | Syntalix, Kolkata, India (Sep 2024)
+    *   Worked on Flutter-based app development for Android platforms.
 
-### Kraya & Kuber, Bhubaneswar, India (Mar 2023 - Present)
-- **Digital Marketing and Finance Team Member**
-  - Marketing Society
+*   **IoT Developer and App Development Lead** | KIIT Robotics Society, Bhubaneswar, India (Nov 2023 – Present)
+    *   Engineered a weather and pollution monitoring system with app integration.
+    *   Engineered AI-powered legal and medical chatbots.
+    *   Instructed 50+ students in Flutter development; oversaw development of the official KRS App.
+    *   Represented and organized tech events.
 
-![Image Example](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0YF_dqhVoArLhbY3CgacVjuMQI6B2NojK6g&usqp=CAU)
+*   **ML-AI Intern** | OpenGenus Foundation, Tokyo, Japan (remote) (Jul 2023 – Dec 2023)
+    *   Authored 11 technical articles on machine learning.
+    *   Built 2 NLP projects and an NLP checklist for the website.
 
-## Interests
-- Competitive coding
-- Writing poems and short stories
-- Creating Python apps for fun
-- Playing music (harmonium, mouth organ, etc.)
-- Reading novels
-- Playing chess
-- Blogging
-- Language learning
-- Cloudgazing
+*   **Web Team Member and App Development Lead** | KIIT Electrical Society, Bhubaneswar, India (Nov 2023 – Present)
+    *   Represented the society in symposiums and presented a research paper on DNM.
 
-## Languages
-- English, Bengali, Hindi, Nagamese - Fluent
-- Assamese, Urdu, German - Beginner
+*   **App Developer** | Konnexions (IT & Web Society), KIIT, Bhubaneswar, India (Mar 2023 – Present)
+    *   Developed and engineered a comprehensive time management and productivity app.
 
-![GIF Example](https://i.pinimg.com/originals/0c/47/a3/0c47a3648c73823d3b24d12a420d68aa.gif)
+*   **Tech & Web Team Member** | KIITFest 8.0, Bhubaneswar, India (Feb 2025)
+    *   Assisted in developing a scanning app for ID verification/merch distribution (1,500+ attendees).
+    *   Resolved tech issues reducing downtime by 40%.
 
+*   **Business Development Intern** | ScarBluu, Mumbai, India (remote) (Aug 2022 – Sep 2022)
+    *   Generated leads and established client relationships to pitch company services.
 
-## Books Published
-- Programs in C - Feb 2023
-- When The Periwinkles Wilt: Stories and poems about broken hearts and broken souls - Jul 2022
-- हमारा आसमान - May 2021
-- On Cloud Nine - Jan 2021 (with Scholastic)
-- Bidrohi (The Rebel): English translation of th
+---
 
-## References
-References available upon request.
+**Education**
 
-![GIF Example](https://i.pinimg.com/originals/0c/e4/ee/0ce4eec868486279112a1d14b16762b6.gif)
+*   **Bachelor of Technology (Computer Science & Engineering)**
+    *   Kalinga Institute of Industrial Technology, Bhubaneswar, India (Sep 2022 – Jun 2026)
+    *   Current CGPA: 8.42
+
+*   **High School Education (CBSE - PCMB)**
+    *   Hollotoli School, Dimapur, India (Apr 2020 – Jun 2022)
+    *   Class 12: 86.4%, Class 10: 97.2%
+
+---
+
+**Certifications & Courses**
+
+*   Career Essentials in GitHub Professional Certificate (Coursera)
+*   Machine Learning with Scikit-Learn (Coursera)
+*   Processing Text with Python Essential Training (LinkedIn)
+*   JavaScript Essential Training (LinkedIn)
+*   SQL for Data Analysis (LinkedIn)
+*   Figma Essential Training: The Basics (LinkedIn)
+*   Strategy and Game Theory for Management (Coursera)
+*   Problem Solving (Basic) Certificate - HackerRank
+*   Python (Basic) Certificate - HackerRank
+*   SQL (Basic) Certificate - HackerRank
+*   Application of Data Analysis in Business with R Programming (Coursera)
+*   Prepare, Clean, Transform, and Load Data using Power BI (Coursera)
+*   The Fundamentals of Digital Marketing (Google Digital Garage)
+*   Data Science Foundations - Level 1 (IBM)
+*   Django Essential Training (LinkedIn)
+
+---
+
+**Community & Organizations**
+
+*   **ML Team Member** | UiPath Student Community (Feb 2025 – Present)
+*   **Systems and Low Level Team Member** | Google Developer Student Club (May 2024 – Present)
+*   **Script Writer** | Kartavya - Kalakaar (Dramatics Society) (Nov 2023 – Present)
+*   **Content Writer** | SPIC MACAY - KIIT Chapter (Mar 2023 – Present)
+*   **Digital Marketing & Finance Team Member** | Kraya&Kuber (Marketing Society) (Mar 2023 – Present)
+
+---
+
+**Interests**
+
+Competitive coding, writing poems and short stories, creating Python apps for fun, playing music (harmonium, mouth organ, etc.), reading novels, playing chess, blogging, language learning, cloudgazing.
+
+---
+
+**Languages**
+
+*   **Fluent:** English, Bengali, Hindi, Nagamese
+*   **Beginner:** Assamese, Urdu, German
+
+---
+
+**Books Published**
+
+*   Programs in C (Feb 2023)
+*   When The Periwinkles Wilt: Stories and poems about broken hearts and broken souls (Jul 2022)
+*   हमारा आसमान (May 2021)
+*   On Cloud Nine (Jan 2021) (with Scholastic)
+*   Bidrohi (The Rebel): English translation... *(Note: The original text was cut off here. Complete the title if possible)*
+
+---
+
+**Let's Connect!**
+
+*   **Email:** `maitiagniva@gmail.com`
+*   **LinkedIn:** [www.linkedin.com/in/agniva-maiti/](https://www.linkedin.com/in/agniva-maiti/)
+*   **Website:** [www.agniva.tech](https://www.agniva.tech/)
+*   **GitHub:** [github.com/AgnivaMaiti](https://github.com/AgnivaMaiti)
+
+*(References available upon request.)*
+
+---
+![Pusheen reading a book GIF](https://pusheen.com/wp-content/uploads/2011/06/tumblr_ln1ybqx90J1qhy6c9o1_400.gif)
