@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" alt="Coding Animation"/>
 </div>
 
 ---
@@ -33,9 +33,6 @@ class AgnivaMatiti:
 ## 🎯 Current Status
 
 <div align="center">
-
-### 🎓 Academic Progress
-![Academic Progress](https://progress-bar.dev/84/?scale=100&title=CGPA&width=300&color=babaca&suffix=/10.0)
 
 ### 📚 Graduation Countdown
 ![Graduation](https://img.shields.io/badge/Graduation-May%202026-brightgreen?style=for-the-badge&logo=calendar)
@@ -80,10 +77,6 @@ class AgnivaMatiti:
 
 ## 🏆 Achievement Showcase
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AgnivaMaiti&theme=onedark&no-frame=true&row=1&column=6" alt="Trophy" />
-</div>
-
 ### 📊 Research Impact
 - 🔬 **2 Research Internships** at IIT Dhanbad & IIT Kharagpur
 - 📄 **11 Technical Articles** published on OpenGenus
@@ -101,30 +94,7 @@ class AgnivaMatiti:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgnivaMaiti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnivaMaiti&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgnivaMaiti&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgnivaMaiti&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Geeti](https://github-readme-stats.vercel.app/api/pin/?username=AgnivaMaiti&repo=Geeti&theme=tokyonight)](https://github.com/AgnivaMaiti/Geeti)
-[![What The Flutter](https://github-readme-stats.vercel.app/api/pin/?username=AgnivaMaiti&repo=WhatTheFlutter&theme=tokyonight)](https://github.com/AgnivaMaiti/WhatTheFlutter)
-
-[![Satellite Classifier](https://github-readme-stats.vercel.app/api/pin/?username=AgnivaMaiti&repo=satellite-image-landscape-classifier&theme=tokyonight)](https://github.com/AgnivaMaiti/satellite-image-landscape-classifier)
-[![Resume Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=AgnivaMaiti&repo=one-click-resume-analyzer&theme=tokyonight)](https://github.com/AgnivaMaiti/one-click-resume-analyzer)
-
 </div>
 
 ---
@@ -173,7 +143,7 @@ class AgnivaMatiti:
   
   <br><br>
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100"/>
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
 </div>
