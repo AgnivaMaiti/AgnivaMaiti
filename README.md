@@ -180,7 +180,7 @@ class AgnivaMaiti:
 - **🤖 ML Engineer** @ RnPsoft PVT. LTD.
 - **📱 Flutter Developer** @ Multiple Companies
 - **✍️ Technical Writer** @ OpenGenus
-- **🔎 Research Intern:: @ IIT(ISM) & IIT KGP
+- **🔎 Research Intern** @ IIT(ISM) & IIT KGP
 
 ## 🎨 Project Highlights
 - 🎵 **AI Lyrics Generator** (Multi-language)
