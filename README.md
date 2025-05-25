@@ -1,4 +1,4 @@
-# Hi there, I'm Agniva Maiti! 👋
+# Hi there, I'm Agniva Maiti! 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+Engineer+%26+App+Developer;Building+Amazing+Applications;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
@@ -146,7 +146,6 @@ class AgnivaMaiti:
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
@@ -167,10 +166,8 @@ class AgnivaMaiti:
 **Other Technologies**
 <br><br>
 ![REST API](https://img.shields.io/badge/REST_API-02569b?style=flat-square&logo=api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=graphql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85ea2d?style=flat-square&logo=swagger&logoColor=black)
 ![IoT](https://img.shields.io/badge/IoT-0066cc?style=flat-square&logo=internet-of-things&logoColor=white)
 
 </td>
@@ -190,7 +187,6 @@ class AgnivaMaiti:
 - **🤖 ML Engineer** @ RnPsoft PVT. LTD.
 - **📱 Flutter Developer** @ Multiple Companies
 - **✍️ Technical Writer** @ OpenGenus (11+ Articles)
-- **💡 IoT Developer** @ KIIT Electrical Society
 
 ## 🎨 Project Highlights
 - 🎵 **AI Lyrics Generator** (Multi-language)
@@ -231,10 +227,9 @@ class AgnivaMaiti:
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-agniva.tech-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.agniva.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnivamaiti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agniva-maiti/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maitiagniva@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgnivaMaiti)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:8729806726)
 
 ### 💡 Currently Open To
 ![Full Time](https://img.shields.io/badge/Full_Time_Positions-Available-brightgreen?style=flat-square)
@@ -252,7 +247,7 @@ class AgnivaMaiti:
   
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="60"/>
   
-  **Ready to build innovative solutions together! 🚀**
+  **Ready to build innovative solutions together!**
 </div>
 
 ---
